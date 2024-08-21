@@ -30,7 +30,11 @@ h1 {
   margin-bottom: -1rem;
 }
 
-.App input{
+li {
+  list-style:disc;
+}
+
+.inp{
   width: 500px;
   height: 2.5rem;
   color: black;
@@ -56,8 +60,14 @@ label {
   justify-content: center;
   align-items: center;
   gap: 1rem;
+  margin-bottom: 1rem;
 }
 
+.check {
+  width: 30px;
+  height: 30px;
+  cursor: pointer;
+}
 select {
   width: 140px;
   height: 25px;
@@ -65,4 +75,21 @@ select {
   font-size: 1rem;
   text-transform: uppercase;
   font-weight: bold;
+}
+
+button {
+  background-color: transparent ;
+  border: none;
+  color: #fff;
+  cursor: pointer;
+}
+
+button img {
+  width: 20px;
+  mix-blend-mode: multiply;
+  fill: #fff;
+}
+
+.size-6 {
+  width: 30px;
 }

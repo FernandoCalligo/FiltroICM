@@ -989,7 +989,8 @@
     },
     {
         "id": 248,
-        "code": "A539 SIFILIS, NO ESPECIFICADA"
+        "code": "A539 SIFILIS, NO ESPECIFICADA",
+        "favorito": true
     },
     {
         "id": 249,
@@ -8365,7 +8366,8 @@
     },
     {
         "id": 2092,
-        "code": "F141 USO NOCIVO DE COCAINA (ABUSO)"
+        "code": "F141 USO NOCIVO DE COCAINA (ABUSO)",
+        "favorito": true
     },
     {
         "id": 2093,
@@ -9421,7 +9423,8 @@
     },
     {
         "id": 2356,
-        "code": "F799 RETRASO MENTAL, NO ESPECIFICADO, CON DETERIORO DEL COMPORTAMIENTO DE GRADO NO ESPECIFICADO"
+        "code": "F799 RETRASO MENTAL, NO ESPECIFICADO, CON DETERIORO DEL COMPORTAMIENTO DE GRADO NO ESPECIFICADO",
+        "favorito": true
     },
     {
         "id": 2357,
@@ -20925,7 +20928,13 @@
     },
     {
         "id": 5232,
-        "code": "O039 ABORTO ESPONTANEO COMPLETO O NO ESPECIFICADO, SIN COMPLICACION"
+        "code": "O039 ABORTO ESPONTANEO COMPLETO O NO ESPECIFICADO, SIN COMPLICACION",
+        "favorito": true
+    },
+    {
+        "id": 12325,
+        "code": "O049 ABORTO MEDICO COMPLETO O NO ESPECIFICADO, SIN COMPLICACION",
+        "favorito": true
     },
     {
         "id": 5233,
@@ -21145,7 +21154,8 @@
     },
     {
         "id": 5287,
-        "code": "O149 PREECLAMPSIA, NO ESPECIFICADA"
+        "code": "O149 PREECLAMPSIA, NO ESPECIFICADA",
+        "favorito": true
     },
     {
         "id": 5288,
@@ -21161,7 +21171,8 @@
     },
     {
         "id": 5291,
-        "code": "O159 ECLAMPSIA, EN PERIODO NO ESPECIFICADO"
+        "code": "O159 ECLAMPSIA, EN PERIODO NO ESPECIFICADO",
+        "favorito": true
     },
     {
         "id": 5292,
@@ -21169,7 +21180,8 @@
     },
     {
         "id": 5293,
-        "code": "O200 AMENAZA DE ABORTO"
+        "code": "O200 AMENAZA DE ABORTO",
+        "favorito": true
     },
     {
         "id": 5294,
@@ -21249,7 +21261,8 @@
     },
     {
         "id": 5313,
-        "code": "O234 INFECCION NO ESPECIFICADA DE LAS VIAS URINARIAS EN EL EMBARAZO"
+        "code": "O234 INFECCION NO ESPECIFICADA DE LAS VIAS URINARIAS EN EL EMBARAZO",
+        "favorito": true
     },
     {
         "id": 5314,
@@ -21397,7 +21410,8 @@
     },
     {
         "id": 5350,
-        "code": "O300 EMBARAZO DOBLE"
+        "code": "O300 EMBARAZO DOBLE",
+        "favorito": true
     },
     {
         "id": 5351,
@@ -21625,7 +21639,8 @@
     },
     {
         "id": 5407,
-        "code": "O369 ATENCION MATERNA POR PROBLEMAS FETALES NO ESPECIFICADOS"
+        "code": "O369 ATENCION MATERNA POR PROBLEMAS FETALES NO ESPECIFICADOS",
+        "favorito": true
     },
     {
         "id": 5408,
@@ -21661,7 +21676,8 @@
     },
     {
         "id": 5416,
-        "code": "O429 RUPTURA PREMATURA DE LAS MEMBRANAS, SIN OTRA ESPECIFICACION"
+        "code": "O429 RUPTURA PREMATURA DE LAS MEMBRANAS, SIN OTRA ESPECIFICACION",
+        "favorito": true
     },
     {
         "id": 5417,
@@ -21737,7 +21753,8 @@
     },
     {
         "id": 5435,
-        "code": "O601 TRABAJO DE PARTO PREMATURO ESPONTANEO CON PARTO PREMATURO"
+        "code": "O601 TRABAJO DE PARTO PREMATURO ESPONTANEO CON PARTO PREMATURO",
+        "favorito": true
     },
     {
         "id": 5436,
@@ -22029,7 +22046,8 @@
     },
     {
         "id": 5508,
-        "code": "O719 TRAUMA OBSTETRICO, NO ESPECIFICADO"
+        "code": "O719 TRAUMA OBSTETRICO, NO ESPECIFICADO",
+        "favorito": true
     },
     {
         "id": 5509,
@@ -22149,7 +22167,8 @@
     },
     {
         "id": 5538,
-        "code": "O809 PARTO UNICO ESPONTANEO, SIN OTRA ESPECIFICACION"
+        "code": "O809 PARTO UNICO ESPONTANEO, SIN OTRA ESPECIFICACION",
+        "favorito": true
     },
     {
         "id": 5539,
@@ -22193,7 +22212,8 @@
     },
     {
         "id": 5549,
-        "code": "O829 PARTO POR CESAREA, SIN OTRA ESPECIFICACION"
+        "code": "O829 PARTO POR CESAREA, SIN OTRA ESPECIFICACION",
+        "favorito": true
     },
     {
         "id": 5550,
@@ -22473,7 +22493,8 @@
     },
     {
         "id": 5619,
-        "code": "O990 ANEMIA QUE COMPLICA EL EMBARAZO, EL PARTO Y EL PUERPERIO"
+        "code": "O990 ANEMIA QUE COMPLICA EL EMBARAZO, EL PARTO Y EL PUERPERIO",
+        "favorito": true
     },
     {
         "id": 5620,
@@ -22485,7 +22506,8 @@
     },
     {
         "id": 5622,
-        "code": "O993 TRASTORNOS MENTALES Y ENFERMEDADES DEL SISTEMA NERVIOSO QUE COMPLICAN EL EMBARAZO, EL PARTO Y EL PUERPERIO"
+        "code": "O993 TRASTORNOS MENTALES Y ENFERMEDADES DEL SISTEMA NERVIOSO QUE COMPLICAN EL EMBARAZO, EL PARTO Y EL PUERPERIO",
+        "favorito": true
     },
     {
         "id": 5623,
@@ -46277,7 +46299,8 @@
     },
     {
         "id": 11697,
-        "code": "Z349 SUPERVISION DE EMBARAZO NORMAL NO ESPECIFICADO"
+        "code": "Z349 SUPERVISION DE EMBARAZO NORMAL NO ESPECIFICADO",
+        "favorito": true
     },
     {
         "id": 11698,
@@ -46433,7 +46456,8 @@
     },
     {
         "id": 11736,
-        "code": "Z392 SEGUIMIENTO POSTPARTO, DE RUTINA"
+        "code": "Z392 SEGUIMIENTO POSTPARTO, DE RUTINA",
+        "favorito": true
     },
     {
         "id": 11737,
