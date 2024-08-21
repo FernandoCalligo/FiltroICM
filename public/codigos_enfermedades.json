@@ -21176,7 +21176,8 @@
     },
     {
         "id": 5292,
-        "code": "O16X HIPERTENSION MATERNA, NO ESPECIFICADA"
+        "code": "O16X HIPERTENSION MATERNA, NO ESPECIFICADA",
+        "favorito": true
     },
     {
         "id": 5293,
@@ -21294,7 +21295,8 @@
     },
     {
         "id": 5321,
-        "code": "O249 DIABETES MELLITUS NO ESPECIFICADA, EN EL EMBARAZO"
+        "code": "O249 DIABETES MELLITUS NO ESPECIFICADA, EN EL EMBARAZO",
+        "favorito": true
     },
     {
         "id": 5322,
