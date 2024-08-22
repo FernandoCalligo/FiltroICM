@@ -13680,7 +13680,8 @@
     },
     {
         "id": 3420,
-        "code": "J189 NEUMONIA, NO ESPECIFICADA"
+        "code": "J189 NEUMONIA, NO ESPECIFICADA",
+        "favorito":true
     },
     {
         "id": 3421,
@@ -13736,7 +13737,8 @@
     },
     {
         "id": 3434,
-        "code": "J219 BRONQUIOLITIS AGUDA, NO ESPECIFICADA"
+        "code": "J219 BRONQUIOLITIS AGUDA, NO ESPECIFICADA",
+        "favorito":true
     },
     {
         "id": 3435,
@@ -21102,7 +21104,8 @@
     },
     {
         "id": 5274,
-        "code": "O101 ENFERMEDAD CARDIACA HIPERTENSIVA PREEXISTENTE QUE COMPLICA EL EMBARAZO, EL PARTO Y EL PUERPERIO"
+        "code": "O101 ENFERMEDAD CARDIACA HIPERTENSIVA PREEXISTENTE QUE COMPLICA EL EMBARAZO, EL PARTO Y EL PUERPERIO",
+        "favorito":true
     },
     {
         "id": 5275,
@@ -21118,7 +21121,8 @@
     },
     {
         "id": 5278,
-        "code": "O109 HIPERTENSION PREEXISTENTE NO ESPECIFICADA, QUE COMPLICA EL EMBARAZO, EL PARTO Y EL PUERPERIO"
+        "code": "O109 HIPERTENSION PREEXISTENTE NO ESPECIFICADA, QUE COMPLICA EL EMBARAZO, EL PARTO Y EL PUERPERIO",
+        "favorito":true
     },
     {
         "id": 5279,
@@ -21130,7 +21134,8 @@
     },
     {
         "id": 5281,
-        "code": "O121 PROTEINURIA GESTACIONAL"
+        "code": "O121 PROTEINURIA GESTACIONAL",
+        "favorito":true
     },
     {
         "id": 5282,
@@ -21138,7 +21143,8 @@
     },
     {
         "id": 5283,
-        "code": "O13X HIPERTENSION GESTACIONAL (INDUCIDA POR EL EMBARAZO) SIN PROTEINURIA SIGNIFICATIVA"
+        "code": "O13X HIPERTENSION GESTACIONAL (INDUCIDA POR EL EMBARAZO) SIN PROTEINURIA SIGNIFICATIVA",
+        "favorito":true
     },
     {
         "id": 5284,
@@ -21210,7 +21216,8 @@
     },
     {
         "id": 5300,
-        "code": "O219 VOMITOS DEL EMBARAZO, NO ESPECIFICADOS"
+        "code": "O219 VOMITOS DEL EMBARAZO, NO ESPECIFICADOS",
+        "favorito":true
     },
     {
         "id": 5301,
@@ -21218,7 +21225,8 @@
     },
     {
         "id": 5302,
-        "code": "O221 VARICES GENITALES EN EL EMBARAZO"
+        "code": "O221 VARICES GENITALES EN EL EMBARAZO",
+        "favorito":true
     },
     {
         "id": 5303,
@@ -21242,7 +21250,8 @@
     },
     {
         "id": 5308,
-        "code": "O229 COMPLICACION VENOSA NO ESPECIFICADA EN EL EMBARAZO"
+        "code": "O229 COMPLICACION VENOSA NO ESPECIFICADA EN EL EMBARAZO",
+        "favorito":true
     },
     {
         "id": 5309,
@@ -21267,11 +21276,13 @@
     },
     {
         "id": 5314,
-        "code": "O235 INFECCION GENITAL EN EL EMBARAZO"
+        "code": "O235 INFECCION GENITAL EN EL EMBARAZO",
+        "favorito":true
     },
     {
         "id": 5315,
-        "code": "O239 OTRAS INFECCIONES Y LAS NO ESPECIFICADAS DE LAS VIAS GENITOURINARIAS EN EL EMBARAZO"
+        "code": "O239 OTRAS INFECCIONES Y LAS NO ESPECIFICADAS DE LAS VIAS GENITOURINARIAS EN EL EMBARAZO",
+        "favorito":true
     },
     {
         "id": 5316,
@@ -21328,7 +21339,8 @@
     },
     {
         "id": 5329,
-        "code": "O266 TRASTORNOS DEL HIGADO EN EL EMBARAZO, EL PARTO Y EL PUERPERIO"
+        "code": "O266 TRASTORNOS DEL HIGADO EN EL EMBARAZO, EL PARTO Y EL PUERPERIO",
+        "favorito":true
     },
     {
         "id": 5330,
@@ -21621,11 +21633,13 @@
     },
     {
         "id": 5402,
-        "code": "O364 ATENCION MATERNA POR MUERTE INTRAUTERINA"
+        "code": "O364 ATENCION MATERNA POR MUERTE INTRAUTERINA",
+        "favorito":true
     },
     {
         "id": 5403,
-        "code": "O365 ATENCION MATERNA POR DEFICIT DEL CRECIMIENTO FETAL"
+        "code": "O365 ATENCION MATERNA POR DEFICIT DEL CRECIMIENTO FETAL",
+        "favorito":true
     },
     {
         "id": 5404,
@@ -21637,7 +21651,8 @@
     },
     {
         "id": 5406,
-        "code": "O368 ATENCION MATERNA POR OTROS PROBLEMAS FETALES ESPECIFICADOS"
+        "code": "O368 ATENCION MATERNA POR OTROS PROBLEMAS FETALES ESPECIFICADOS",
+        "favorito":true
     },
     {
         "id": 5407,
@@ -21768,7 +21783,8 @@
     },
     {
         "id": 5438,
-        "code": "O610 FRACASO DE LA INDUCCION MEDICA DEL TRABAJO DE PARTO"
+        "code": "O610 FRACASO DE LA INDUCCION MEDICA DEL TRABAJO DE PARTO",
+        "favorito":true
     },
     {
         "id": 5439,
@@ -21784,7 +21800,8 @@
     },
     {
         "id": 5442,
-        "code": "O620 CONTRACCIONES PRIMARIAS INADECUADAS"
+        "code": "O620 CONTRACCIONES PRIMARIAS INADECUADAS",
+        "favorito":true
     },
     {
         "id": 5443,
@@ -21824,7 +21841,8 @@
     },
     {
         "id": 5452,
-        "code": "O639 TRABAJO DE PARTO PROLONGADO, NO ESPECIFICADO"
+        "code": "O639 TRABAJO DE PARTO PROLONGADO, NO ESPECIFICADO",
+        "favorito":true
     },
     {
         "id": 5453,
@@ -22279,7 +22297,8 @@
     },
     {
         "id": 5565,
-        "code": "O862 INFECCION DE LAS VIAS URINARIAS CONSECUTIVA AL PARTO"
+        "code": "O862 INFECCION DE LAS VIAS URINARIAS CONSECUTIVA AL PARTO",
+        "favorito":true
     },
     {
         "id": 5566,
@@ -22459,7 +22478,8 @@
     },
     {
         "id": 5610,
-        "code": "O981 SIFILIS QUE COMPLICA EL EMBARAZO, EL PARTO Y EL PUERPERIO"
+        "code": "O981 SIFILIS QUE COMPLICA EL EMBARAZO, EL PARTO Y EL PUERPERIO",
+        "favorito":true
     },
     {
         "id": 5611,
@@ -22537,11 +22557,13 @@
     },
     {
         "id": 5629,
-        "code": "P001 FETO Y RECIEN NACIDO AFECTADOS POR ENFERMEDADES RENALES Y DE LAS VIAS URINARIAS DE LA MADRE"
+        "code": "P001 FETO Y RECIEN NACIDO AFECTADOS POR ENFERMEDADES RENALES Y DE LAS VIAS URINARIAS DE LA MADRE",
+        "favorito":true
     },
     {
         "id": 5630,
-        "code": "P002 FETO Y RECIEN NACIDO AFECTADOS POR ENFERMEDADES INFECCIOSAS Y PARASITARIAS DE LA MADRE"
+        "code": "P002 FETO Y RECIEN NACIDO AFECTADOS POR ENFERMEDADES INFECCIOSAS Y PARASITARIAS DE LA MADRE",
+        "favorito":true
     },
     {
         "id": 5631,
@@ -22669,7 +22691,8 @@
     },
     {
         "id": 5662,
-        "code": "P034 FETO Y RECIEN NACIDO AFECTADOS POR PARTO POR CESAREA"
+        "code": "P034 FETO Y RECIEN NACIDO AFECTADOS POR PARTO POR CESAREA",
+        "favorito":true
     },
     {
         "id": 5663,
@@ -22725,7 +22748,8 @@
     },
     {
         "id": 5676,
-        "code": "P050 BAJO PESO PARA LA EDAD GESTACIONAL"
+        "code": "P050 BAJO PESO PARA LA EDAD GESTACIONAL",
+        "favorito":true
     },
     {
         "id": 5677,
@@ -22733,11 +22757,13 @@
     },
     {
         "id": 5678,
-        "code": "P052 DESNUTRICION FETAL, SIN MENCION DE PESO O TALLA BAJOS PARA LA EDAD GESTACIONAL"
+        "code": "P052 DESNUTRICION FETAL, SIN MENCION DE PESO O TALLA BAJOS PARA LA EDAD GESTACIONAL",
+        "favorito":true
     },
     {
         "id": 5679,
-        "code": "P059 RETARDO DEL CRECIMIENTO FETAL, NO ESPECIFICADO"
+        "code": "P059 RETARDO DEL CRECIMIENTO FETAL, NO ESPECIFICADO",
+        "favorito":true
     },
     {
         "id": 5680,
@@ -22745,15 +22771,18 @@
     },
     {
         "id": 5681,
-        "code": "P071 OTRO PESO BAJO AL NACER"
+        "code": "P071 OTRO PESO BAJO AL NACER",
+        "favorito":true
     },
     {
         "id": 5682,
-        "code": "P072 INMATURIDAD EXTREMA"
+        "code": "P072 INMATURIDAD EXTREMA",
+        "favorito":true
     },
     {
         "id": 5683,
-        "code": "P073 OTROS RECIEN NACIDOS PRETERMINO"
+        "code": "P073 OTROS RECIEN NACIDOS PRETERMINO",
+        "favorito":true
     },
     {
         "id": 5684,
@@ -22869,7 +22898,8 @@
     },
     {
         "id": 5712,
-        "code": "P134 FRACTURA DE LA CLAVICULA DEBIDA A TRAUMATISMO DEL NACIMIENTO"
+        "code": "P134 FRACTURA DE LA CLAVICULA DEBIDA A TRAUMATISMO DEL NACIMIENTO",
+        "favorito":true
     },
     {
         "id": 5713,
@@ -22941,7 +22971,8 @@
     },
     {
         "id": 5730,
-        "code": "P200 HIPOXIA INTRAUTERINA NOTADA POR PRIMERA VEZ ANTES DEL INICIO DEL TRABAJO DE PARTO"
+        "code": "P200 HIPOXIA INTRAUTERINA NOTADA POR PRIMERA VEZ ANTES DEL INICIO DEL TRABAJO DE PARTO",
+        "favorito":true
     },
     {
         "id": 5731,
@@ -22961,11 +22992,13 @@
     },
     {
         "id": 5735,
-        "code": "P219 ASFIXIA DEL NACIMIENTO, NO ESPECIFICADA"
+        "code": "P219 ASFIXIA DEL NACIMIENTO, NO ESPECIFICADA",
+        "favorito":true
     },
     {
         "id": 5736,
-        "code": "P220 SINDROME DE DIFICULTAD RESPIRATORIA DEL RECIEN NACIDO"
+        "code": "P220 SINDROME DE DIFICULTAD RESPIRATORIA DEL RECIEN NACIDO",
+        "favorito":true
     },
     {
         "id": 5737,
@@ -23017,11 +23050,13 @@
     },
     {
         "id": 5749,
-        "code": "P240 ASPIRACION NEONATAL DE MECONIO"
+        "code": "P240 ASPIRACION NEONATAL DE MECONIO",
+        "favorito":true
     },
     {
         "id": 5750,
-        "code": "P241 ASPIRACION NEONATAL DE LIQUIDO AMNIOTICO Y DE MOCO"
+        "code": "P241 ASPIRACION NEONATAL DE LIQUIDO AMNIOTICO Y DE MOCO",
+        "favorito":true
     },
     {
         "id": 5751,
@@ -23029,7 +23064,8 @@
     },
     {
         "id": 5752,
-        "code": "P243 ASPIRACION NEONATAL DE LECHE Y ALIMENTO REGURGITADO"
+        "code": "P243 ASPIRACION NEONATAL DE LECHE Y ALIMENTO REGURGITADO",
+        "favorito":true
     },
     {
         "id": 5753,
@@ -23093,7 +23129,8 @@
     },
     {
         "id": 5768,
-        "code": "P280 ATELECTASIA PRIMARIA DEL RECIEN NACIDO"
+        "code": "P280 ATELECTASIA PRIMARIA DEL RECIEN NACIDO",
+        "favorito":true
     },
     {
         "id": 5769,
@@ -23101,15 +23138,18 @@
     },
     {
         "id": 5770,
-        "code": "P282 ATAQUE CIANOTICO DEL RECIEN NACIDO"
+        "code": "P282 ATAQUE CIANOTICO DEL RECIEN NACIDO",
+        "favorito":true
     },
     {
         "id": 5771,
-        "code": "P283 APNEA PRIMARIA DEL SUENO DEL RECIEN NACIDO"
+        "code": "P283 APNEA PRIMARIA DEL SUENO DEL RECIEN NACIDO",
+        "favorito":true
     },
     {
         "id": 5772,
-        "code": "P284 OTRAS APNEAS DEL RECIEN NACIDO"
+        "code": "P284 OTRAS APNEAS DEL RECIEN NACIDO",
+        "favorito":true
     },
     {
         "id": 5773,
@@ -23121,7 +23161,8 @@
     },
     {
         "id": 5775,
-        "code": "P289 AFECCION RESPIRATORIA NO ESPECIFICADA DEL RECIEN NACIDO"
+        "code": "P289 AFECCION RESPIRATORIA NO ESPECIFICADA DEL RECIEN NACIDO",
+        "favorito":true
     },
     {
         "id": 5776,
@@ -23257,7 +23298,8 @@
     },
     {
         "id": 5809,
-        "code": "P393 INFECCION NEONATAL DE LAS VIAS URINARIAS"
+        "code": "P393 INFECCION NEONATAL DE LAS VIAS URINARIAS",
+        "favorito":true
     },
     {
         "id": 5810,
@@ -23313,7 +23355,8 @@
     },
     {
         "id": 5823,
-        "code": "P519 HEMORRAGIA UMBILICAL DEL RECIEN NACIDO, SIN OTRA ESPECIFICACION"
+        "code": "P519 HEMORRAGIA UMBILICAL DEL RECIEN NACIDO, SIN OTRA ESPECIFICACION",
+        "favorito":true
     },
     {
         "id": 5824,
@@ -23393,7 +23436,8 @@
     },
     {
         "id": 5843,
-        "code": "P550 INCOMPATIBILIDAD RH DEL FETO Y DEL RECIEN NACIDO"
+        "code": "P550 INCOMPATIBILIDAD RH DEL FETO Y DEL RECIEN NACIDO",
+        "favorito":true
     },
     {
         "id": 5844,
@@ -23481,7 +23525,8 @@
     },
     {
         "id": 5865,
-        "code": "P599 ICTERICIA NEONATAL, NO ESPECIFICADA"
+        "code": "P599 ICTERICIA NEONATAL, NO ESPECIFICADA",
+        "favorito":true
     },
     {
         "id": 5866,
@@ -23529,7 +23574,8 @@
     },
     {
         "id": 5877,
-        "code": "P701 SINDROME DEL RECIEN NACIDO DE MADRE DIABETICA"
+        "code": "P701 SINDROME DEL RECIEN NACIDO DE MADRE DIABETICA",
+        "favorito":true
     },
     {
         "id": 5878,
@@ -23541,7 +23587,8 @@
     },
     {
         "id": 5880,
-        "code": "P704 OTRAS HIPOGLICEMIAS NEONATALES"
+        "code": "P704 OTRAS HIPOGLICEMIAS NEONATALES",
+        "favorito":true
     },
     {
         "id": 5881,
@@ -23605,7 +23652,8 @@
     },
     {
         "id": 5896,
-        "code": "P741 DESHIDRATACION DEL RECIEN NACIDO"
+        "code": "P741 DESHIDRATACION DEL RECIEN NACIDO",
+        "favorito":true
     },
     {
         "id": 5897,
@@ -23629,7 +23677,8 @@
     },
     {
         "id": 5902,
-        "code": "P749 TRASTORNO METABOLICO TRANSITORIO DEL RECIEN NACIDO, NO ESPECIFICADO"
+        "code": "P749 TRASTORNO METABOLICO TRANSITORIO DEL RECIEN NACIDO, NO ESPECIFICADO",
+        "favorito":true
     },
     {
         "id": 5903,
@@ -23689,11 +23738,13 @@
     },
     {
         "id": 5917,
-        "code": "P809 HIPOTERMIA DEL RECIEN NACIDO, NO ESPECIFICADA"
+        "code": "P809 HIPOTERMIA DEL RECIEN NACIDO, NO ESPECIFICADA",
+        "favorito":true
     },
     {
         "id": 5918,
-        "code": "P810 HIPERTERMIA DEL RECIEN NACIDO INDUCIDA POR LAS CONDICIONNES AMBIENTALES"
+        "code": "P810 HIPERTERMIA DEL RECIEN NACIDO INDUCIDA POR LAS CONDICIONNES AMBIENTALES",
+        "favorito":true
     },
     {
         "id": 5919,
@@ -23701,7 +23752,8 @@
     },
     {
         "id": 5920,
-        "code": "P819 ALTERACION NO ESPECIFICADA DE LA REGULACION DE LA TEMPERATURA EN EL RECIEN NACIDO"
+        "code": "P819 ALTERACION NO ESPECIFICADA DE LA REGULACION DE LA TEMPERATURA EN EL RECIEN NACIDO",
+        "favorito":true
     },
     {
         "id": 5921,
@@ -23741,7 +23793,8 @@
     },
     {
         "id": 5930,
-        "code": "P90X CONVULSIONES DEL RECIEN NACIDO"
+        "code": "P90X CONVULSIONES DEL RECIEN NACIDO",
+        "favorito":true
     },
     {
         "id": 5931,
@@ -23781,7 +23834,8 @@
     },
     {
         "id": 5940,
-        "code": "P920 VOMITOS DEL RECIEN NACIDO"
+        "code": "P920 VOMITOS DEL RECIEN NACIDO",
+        "favorito":true
     },
     {
         "id": 5941,
@@ -23789,11 +23843,13 @@
     },
     {
         "id": 5942,
-        "code": "P922 LENTITUD EN LA INGESTION DE ALIMENTOS DEL RECIEN NACIDO"
+        "code": "P922 LENTITUD EN LA INGESTION DE ALIMENTOS DEL RECIEN NACIDO",
+        "favorito":true
     },
     {
         "id": 5943,
-        "code": "P923 HIPOALIMENTACION DEL RECIEN NACIDO"
+        "code": "P923 HIPOALIMENTACION DEL RECIEN NACIDO",
+        "favorito":true
     },
     {
         "id": 5944,
@@ -23801,11 +23857,13 @@
     },
     {
         "id": 5945,
-        "code": "P925 DIFICULTAD NEONATAL EN LA LACTANCIA MATERNA"
+        "code": "P925 DIFICULTAD NEONATAL EN LA LACTANCIA MATERNA",
+        "favorito":true
     },
     {
         "id": 5946,
-        "code": "P928 OTROS PROBLEMAS DE ALIMENTACION DEL RECIEN NACIDO"
+        "code": "P928 OTROS PROBLEMAS DE ALIMENTACION DEL RECIEN NACIDO",
+        "favorito":true
     },
     {
         "id": 5947,
@@ -23813,7 +23871,8 @@
     },
     {
         "id": 5948,
-        "code": "P93X REACCIONES E INTOXICACIONES DEBIDAS A DROGAS ADMINISTRADAS AL FETO Y AL RECIEN NACIDO"
+        "code": "P93X REACCIONES E INTOXICACIONES DEBIDAS A DROGAS ADMINISTRADAS AL FETO Y AL RECIEN NACIDO",
+        "favorito":true
     },
     {
         "id": 5949,
@@ -23821,7 +23880,8 @@
     },
     {
         "id": 5950,
-        "code": "P941 HIPERTONIA CONGENITA"
+        "code": "P941 HIPERTONIA CONGENITA",
+        "favorito":true
     },
     {
         "id": 5951,
@@ -23829,7 +23889,8 @@
     },
     {
         "id": 5952,
-        "code": "P948 OTROS TRASTORNOS DEL TONO MUSCULAR EN EL RECIEN NACIDO"
+        "code": "P948 OTROS TRASTORNOS DEL TONO MUSCULAR EN EL RECIEN NACIDO",
+        "favorito":true
     },
     {
         "id": 5953,
@@ -27017,7 +27078,8 @@
     },
     {
         "id": 6749,
-        "code": "R560 CONVULSIONES FEBRILES"
+        "code": "R560 CONVULSIONES FEBRILES",
+        "favorito":true
     },
     {
         "id": 6750,
@@ -46743,7 +46805,8 @@
     },
     {
         "id": 11807,
-        "code": "Z513 TRANSFUSION DE SANGRE, (SIN DIAGNOSTICO INFORMADO)"
+        "code": "Z513 TRANSFUSION DE SANGRE, (SIN DIAGNOSTICO INFORMADO)",
+        "favorito":true
     },
     {
         "id": 11808,
@@ -47027,7 +47090,8 @@
     },
     {
         "id": 11878,
-        "code": "Z597 PROBLEMAS RELACIONADOS CON SEGURIDAD SOCIAL Y SOSTENIMIENTO INSUFICIENTES PARA EL BIENESTAR"
+        "code": "Z597 PROBLEMAS RELACIONADOS CON SEGURIDAD SOCIAL Y SOSTENIMIENTO INSUFICIENTES PARA EL BIENESTAR",
+        "favorito":true
     },
     {
         "id": 11879,
@@ -47443,7 +47507,8 @@
     },
     {
         "id": 11982,
-        "code": "Z763 PERSONA SANA QUE ACOMPANA AL ENFERMO"
+        "code": "Z763 PERSONA SANA QUE ACOMPANA AL ENFERMO",
+        "favorito":true
     },
     {
         "id": 11983,
