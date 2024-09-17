@@ -21256,7 +21256,8 @@
     },
     {
         "id": 5309,
-        "code": "O230 INFECCION DEL RINON EN EL EMBARAZO"
+        "code": "O230 INFECCION DEL RINON EN EL EMBARAZO",
+        "favorito":true
     },
     {
         "id": 5310,
